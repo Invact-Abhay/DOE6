@@ -1,0 +1,58 @@
+FirstName,LastName,Age,College
+   AArav,Gupta,22,ABC University
+AnaNya,SINGh,20,XYZ College
+arjun,Desai,24,DEF Institute
+diya,ghosh,21,GHI University
+ROHAN,JHA,23,JKL College
+ EmILY,WiLSoN,19,MNO Institute
+MICHAEL,WALKER,25,PQR University
+EmMA,BroWN,20,STU College
+ALExaNDer,AnDErson,22,VWX Institute
+SoPhia,TaYLoR,21,YZA University
+  DANiel,MooRE,24,BCD College
+mIA,MaRTinez,18,EFG Institute
+DAVid,JaCksoN,23,HIJ University
+isAbELLa,HaRRis,19,KLM College
+JOsePH,CLARk,26,NOP Institute
+OLIVIA,ThoMaS,20,QRS University
+EtHAN,LeWiS,22,TUV College
+SOphia,LEE,21,WXY Institute
+MiCHaeL,WaLKER,24,ZAB University
+EMma,HALL,19,CDE College
+WILLiam,GREEN,25,FGH Institute
+aVa,CaRter,20,IJK University
+AlExaNdEr,MURphy,22,LMN College
+mIA,riVEra,21,OPQ Institute
+JAMEs,WRIGHt,24,RST University
+SoPHia,evanS,19,UVW College
+DaNIEl,JOhnsoN,23,XYZ Institute
+OLIVia,WiLLIams,20,DEF University
+dAVId,BROwn,22,GHI College
+iSAbellA,daviS,21,JKL Institute
+JOseph,miLLEr,24,MNO University
+OLIVia,AnDERson,18,PQR College
+eMmA,WIlson,23,STU Institute
+WILLiaM,TaYLoR,19,VWX University
+avA,MOoRE,25,YZA College
+aLeXAnDer,maRtInEZ,20,BCD Institute
+mIA,JAckSon,22,EFG University
+JAMEs,HArrIS,21,HIJ College
+sOpHIa,cLARk,24,KLM Institute
+MIchAel,THoMAs,19,NOP University
+eMmA,LEE,23,QRS College
+DAVId,wAlKeR,20,TUV Institute
+ISAbElLA,HaLL,22,WXY University
+JOSEPH,GREEn,21,ZAB College
+OlIvIA,CArter,24,CDE Institute
+  WILlIAM,MuRPhy,19,FGH University
+MIchAel,THoMAs,19,NOP University
+eMmA,LEE,23,QRS College
+DAVId,wAlKeR,20,TUV Institute
+ ISAbElLA,HaLL,22,WXY University
+ JOSEPH,GREEn,21,ZAB College
+ OlIvIA,CArter,24,CDE Institute
+       WILlIAM,MuRPhy,19,FGH University
+,,,
+,,,
+,,,
+Note: Please check the first row carefully which has the sample answer. Your answer should match the formating of the first row.,,,
