@@ -1,4 +1,4 @@
-SL,Date,Student Name,Course,Language,Timing Slot,Mode
+SL,Date,StudentName,Course,Language,TimingSlot,Mode
 1,13/08/2023,"""John   Smith      """,ExceL,English,12:00-14:00,Online
 2,14/08/2023,"""Emily   Johnson      """,PPT,English,14:00-16:00,Offline
 3,15/08/2023,"""Michael   Brown      """,BI,Hindi,16:00-18:00,Online
